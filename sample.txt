@@ -1,0 +1,2 @@
+Hello, this is the begining of the sample.txt.
+What's next?
